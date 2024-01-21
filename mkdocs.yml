@@ -1,0 +1,6 @@
+site_name: David Bunker's Website
+nav: 
+  - Home: index.md
+  - About: about.md
+  - Notes: notes.md
+  #- Resume: index.md #temp location need to transfer the resume create tool to this new repo
